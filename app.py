@@ -29,4 +29,4 @@ def result(marks):
 
 
 if __name__=='__main__':
-     app.run(debug=True) # no need to again launch the app
+     app.run() # no need to again launch the app
